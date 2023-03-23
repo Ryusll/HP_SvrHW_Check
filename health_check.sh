@@ -7,8 +7,8 @@
 
 date=`date +%Y%d%m%H`
 #need home_dir path changing 
-home_dir=/root/ez_tool/health_check
-work_dir=/root/ez_tool/health_check/$date
+home_dir=/root/health_check
+work_dir=/root/health_check/$date
 
 mkdir -p $work_dir
 
