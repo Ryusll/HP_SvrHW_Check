@@ -12,9 +12,9 @@ work_dir=/root/health_check/$date
 
 mkdir -p $work_dir
 
-
-hp_ilo_user="hpadmin"
-hp_ilo_pass="hpinvent"
+##need change user,password
+hp_ilo_user=""
+hp_ilo_pass=""
 
 
 date
